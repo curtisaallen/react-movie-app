@@ -1,6 +1,7 @@
 const API_URL = 'https://api.themoviedb.org/3/';
 const API_KEY = '';
 
+
 const IMAGE_BASE_URL = 'http://image.tmdb.org/t/p/';
 
 // Sizes: w300, w780, w1280, original

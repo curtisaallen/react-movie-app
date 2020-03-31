@@ -4,7 +4,7 @@ React TMDB Movie Search App
 ![](https://curtisaallen.github.io/react-movie-app/bg.png)
 
 ### Demo
-[React TMDB Movie Search App - Live DEMO](https://curtisaallen.github.io/react-movie-app/build/index.html)
+[React TMDB Movie Search App - Live DEMO](https://reactmdbapp.netlify.com/)
 
 
 ## Project setup
