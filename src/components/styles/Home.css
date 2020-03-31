@@ -1,0 +1,17 @@
+.btn {
+    width: 25%;
+    min-width: 200px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-family: Abel, sans-serif;
+    font-size: 28px;
+    max-width: 1280px;
+    display: block;
+    background: rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    border-radius: 40px;
+    margin: 20px auto;
+    padding: 0px 20px;
+    outline: none;
+}

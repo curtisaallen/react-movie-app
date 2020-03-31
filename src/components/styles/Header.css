@@ -1,0 +1,24 @@
+.header {
+    box-sizing: border-box;
+    background: rgb(28, 28, 28);
+    padding: 0px 20px;
+}
+
+.header-content {
+    max-width: 1280px;
+    min-height: 120px;
+    box-sizing: border-box;
+    padding: 20px 0px;
+    margin: 0px auto;
+}
+
+.logo {
+    width: 250px;
+    margin-top: 20px;
+}
+
+.logo-tmdb {
+    width: 122px;
+    margin-top: 25px;
+    float: right;
+}

@@ -1,0 +1,29 @@
+.grid-wrap {
+    max-width: 1280px;
+    margin: 0px auto;
+    padding: 0px 20px;
+}
+
+.grid-wrap h1 {
+    font-family: Abel, sans-serif;
+    font-size: 42px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(100px, 1fr));
+    position: relative;
+    gap: 40px 40px;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: all 0.3s ease 0s;
+    border-radius: 20px;
+}
+
+.center-text {
+    text-align: center;
+}
